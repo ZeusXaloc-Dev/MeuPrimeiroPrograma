@@ -25,8 +25,6 @@ int main()
        printf("moro no estado = %s\n", estado);
        printf("estudo a linguagem  = %s\n", estudo);
        printf("meu objetivo = %s\n", objtv);
-       
-       return 0;
+         return 0;
 }
 
-#ZeusXaloc-Dev
